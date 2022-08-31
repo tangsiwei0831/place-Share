@@ -1,0 +1,12 @@
+{
+    "env": {
+        "DB_USER": "siwei",
+        "DB_PASSWORD": "...",
+        "DB_NAME": "mern",
+        "JWT_KEY": "...",
+        "AWS_SECRET_ACCESS_KEY": "...",
+        "AWS_ACCESS_KEY_ID": "...",
+        "AWS_REGION": "...",
+        "AWS_BUCKET_NAME": "..."
+    }
+}
